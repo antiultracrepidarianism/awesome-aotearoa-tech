@@ -117,6 +117,12 @@ PRs are welcome.
 * [TradeMe Jobs](https://trademe.co.nz/jobs)
 * [Yudu](https://yudu.co.nz)
 
+## Mentoring
+
+* [CodeClub](https://codeclub.nz/)
+* [CoderDojo](https://coderdojo.nz/)
+* [Kiwibots](https://www.kiwibots.co.nz/)
+
 ## News
 
 * [BizEdge](https://bizedge.co.nz/)
@@ -156,7 +162,4 @@ PRs are welcome.
 * [TechTorium](https://techtorium.ac.nz/)
 * [WellingtonICT](https://wellingtonict.ac.nz/)
 
-## Mentoring
 
-* [CodeClub](https://codeclub.nz/)
-* [Kiwibots](https://www.kiwibots.co.nz/)
