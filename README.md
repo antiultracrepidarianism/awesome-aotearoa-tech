@@ -20,6 +20,7 @@ PRs are welcome.
 * [News](#news)
 * [Podcasts](#podcasts)
 * [Training](#training)
+* [Mentoring](#mentoring)
    
 ## Blogs
 
@@ -86,6 +87,7 @@ PRs are welcome.
 ## Groups and Associations
 
 * [CompSoc](https://www.compsoc.org.nz/)
+* [Christchurch Roboticcs Club](http://www.idesignz.org/robotics/chch_robotics.htm)
 * [HealthIT](https://www.healthit.org.nz/)
 * [IOT Alliance](https://iotalliance.org.nz/)
 * [ISIG](https://isig.org.nz/)
@@ -153,3 +155,8 @@ PRs are welcome.
 * [Steppingup](https://steppingup.nz/)
 * [TechTorium](https://techtorium.ac.nz/)
 * [WellingtonICT](https://wellingtonict.ac.nz/)
+
+## Mentoring
+
+* [CodeClub](https://codeclub.nz/)
+* [Kiwibots](https://www.kiwibots.co.nz/)
