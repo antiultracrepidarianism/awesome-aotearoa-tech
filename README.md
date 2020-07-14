@@ -43,6 +43,7 @@ PRs are welcome.
 * [Chcon](https://chcon.nz)
 * [CybersecurityChallenge](https://cybersecuritychallenge.org.nz/)
 * [devopsdays](https://www.devopsdays.org/)
+* [GDBC](https://globaldevopsbootcamp.com/)
 * [GOVIS](http://www.govis.org.nz/)
 * [HINZ](https://www.hinz.org.nz/) 
 * [HourofCode](https://hourofcode.com/nz)
