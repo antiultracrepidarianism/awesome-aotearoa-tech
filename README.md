@@ -13,7 +13,7 @@ PRs are welcome.
 * [Awesome Aotearoa Tech](#awesome-kiwi-tech)
 * [Blogs](#blogs)
 * [Chat](#chat)
-* [Events](#conferences)
+* [Events](#events)
 * [Forums](#forums)
 * [Government](#government)
 * [Groups and Associations](#groups-and-associations)
