@@ -10,7 +10,6 @@
 
 PRs are welcome.
 
-* [Awesome Aotearoa Tech](#awesome-kiwi-tech)
 * [Blogs](#blogs)
 * [Chat](#chat)
 * [Events](#events)
